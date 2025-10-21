@@ -2,7 +2,7 @@
 # 🎟️ Customer Support Performance Analysis — Python & Tableau
 
 <p align="center">
-  <img src="images/dashboard_preview.png" alt="Dashboard Preview" width="750"/>
+  <img src="Dashboard 1.png" alt="Dashboard Preview" width="750"/>
 </p>
 ## 📘 Overview
 This project analyzes customer support ticket data to evaluate performance, identify service gaps, and improve customer satisfaction.  
@@ -48,7 +48,6 @@ The **Tableau Dashboard** includes:
 - Filters → Ticket Type, Gender, and Date Range  
 - Distribution of satisfaction by age group  
 
-![Tableau Dashboard Screenshot](images/tableau_dashboard.png)
 
 ---
 
